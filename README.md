@@ -16,6 +16,6 @@
 - $ g++ main.cpp -o exe
 - $  ./exe 2 <image_name.bmp> <encryption_key_number>
 
-3. Case 1: to encrypt an image with or/and algorithms: 
+3. Case 3: to encrypt an image with or/and algorithms: 
 - $ g++ main.cpp -o exe
 - $  ./exe 3 <image_name.bmp> <encryption_key_number>
